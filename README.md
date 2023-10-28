@@ -2,6 +2,7 @@
 - 👀 I’m interested in programmming and machine learning.
 - 📖 I'm looking for help in python programming
 - 💻 I’m currently making a project about Tic Tac Toe using q-learning.
+- 🤝 I'm collaborations in simple machine learning projects.
 - 📫 How to reach me ... 
 
 <!---
