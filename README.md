@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MuMu-Ethan
-- 👀 I’m interested in programmming and machine learning.
-- 📖 I'm looking for help in python programming
-- 💻 I’m currently making a project about Snake game using q-learning.
-- 🤝 I'm collaborations in simple machine learning projects.
-- 📫 How to reach me ... 
+- 👀 I’m interested in programmming, swift, iOS development, and machine learning.
+- 💻 I’m currently making a file sharing app.
+- 🤝 I'm looking for collaborations in any projects!
+- 📫 How to reach me 
 
 <!---
 MuMu-Ethan/MuMu-Ethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
