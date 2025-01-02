@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuMu-Ethan
 - 👀 I’m interested in programmming, swift, iOS development, and machine learning.
-- 💻 I’m currently making a file sharing app.
+- 💻 I’m currently making a gomoku AI.
 - 🤝 I'm looking for collaborations in any projects!
 - 📫 How to reach me 
 
